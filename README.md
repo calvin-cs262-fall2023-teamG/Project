@@ -8,7 +8,7 @@ Together, let’s bid goodbye to wallet-wincing prices and say hello to a market
 
 Here is our:
 
-- [Design Model]()
+- [Design Model](https://github.com/calvin-cs262-fall2023-teamG/Project/tree/temp/inline_link/images)
 
 - [Client](https://github.com/calvin-cs262-fall2023-teamG/Client)
 
