@@ -6,7 +6,18 @@ While there are some online book stores and facebook pages where people post boo
 
 Together, let’s bid goodbye to wallet-wincing prices and say hello to a marketplace filled with budget-friendly wisdom!
 
+Here is our:
+
+- [Design Model](https://github.com/calvin-cs262-fall2023-teamG/Project/tree/temp/inline_link/images)
+
+- [Client](https://github.com/calvin-cs262-fall2023-teamG/Client)
+
+- Data Service
+
+- [Trello](https://trello.com/b/ONBkWuzC/cs262g-the-chapter-cachers)
+
+- Deployment Diagram
+
 
 **Teammates:**
 Benjamin Hart, Hye Chan Lee, Faeren H Madza, Daniel Park, Anwesha Pradhananga
-
