@@ -8,15 +8,14 @@ Together, let’s bid goodbye to wallet-wincing prices and say hello to a market
 
 Here is our:
 
-- [Design Model](https://github.com/calvin-cs262-fall2023-teamG/Project/tree/main/images)
+- [Domain Model](https://github.com/calvin-cs262-fall2023-teamG/Project/blob/main/images/Domain%20Model.png)
+
+- [User Interface Model](https://github.com/calvin-cs262-fall2023-teamG/Project/blob/main/images/User%20Interface%20Model.jpg)
 
 - [Client](https://github.com/calvin-cs262-fall2023-teamG/Client)
 
-- Data Service
-
 - [Trello](https://trello.com/b/ONBkWuzC/cs262g-the-chapter-cachers)
 
-- Deployment Diagram
 
 
 **Teammates:**
