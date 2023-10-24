@@ -1,3 +1,6 @@
+# Chaptercache Project
+--- 
+
 **ChapterCache: an app for selling and buying used textbooks in Calvin University**
 
 The average college textbook costs an estimated $105.37. This means that Calvin students are looking at around $400 dollars per semester, which is cost heavy.  This is particularly unfortunate because there are other students who still have the textbooks from classes they have previously taken, but there is no way to connect with them. This is where ChapterCache steps in.
