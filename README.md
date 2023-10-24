@@ -1,5 +1,4 @@
-# Chaptercache Project
---- 
+# ChapterCache Project
 
 **ChapterCache: an app for selling and buying used textbooks in Calvin University**
 
