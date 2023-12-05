@@ -12,7 +12,7 @@ Here is our:
 
 - [Domain Model](https://github.com/calvin-cs262-fall2023-teamG/Project/blob/main/images/Domain%20Model.png)
 
-- [User Interface Model](https://github.com/calvin-cs262-fall2023-teamG/Project/blob/main/images/Updated%20UI%20Model.png)
+- [User Interface Model](https://github.com/calvin-cs262-fall2023-teamG/Project/blob/main/images/UI%20Model.png)
 
 - [Client](https://github.com/calvin-cs262-fall2023-teamG/Client)
 
