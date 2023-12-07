@@ -12,7 +12,9 @@ Here is our:
 
 - [Domain Model](https://github.com/calvin-cs262-fall2023-teamG/Project/blob/main/images/Domain%20Model.png)
 
-- [User Interface Model](https://github.com/calvin-cs262-fall2023-teamG/Project/blob/main/images/UI%20Model.png)
+- [User Interface Model](https://github.com/calvin-cs262-fall2023-teamG/Project/blob/main/images/UI%20Model2.0.png)
+
+- [User Interface Model (Figma)](https://www.figma.com/file/3ER62jiZpUtHMRjWnH2H6i/UI-Model?type=whiteboard&node-id=0-1&t=D1fxS6d45IBOtoCs-0)
 
 - [Client](https://github.com/calvin-cs262-fall2023-teamG/Client)
 
