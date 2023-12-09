@@ -10,18 +10,26 @@ Together, let’s bid goodbye to wallet-wincing prices and say hello to a market
 
 Here is our:
 
+**Models/Diagram**
 - [Domain Model](https://github.com/calvin-cs262-fall2023-teamG/Project/blob/main/images/Domain%20Model.png)
 
-- [User Interface Model](https://github.com/calvin-cs262-fall2023-teamG/Project/blob/main/images/UI%20Model2.0.png)
+- [User Interface Model](https://github.com/calvin-cs262-fall2023-teamG/Project/blob/main/images/UI%20Model.png)
 
 - [User Interface Model (Figma)](https://www.figma.com/file/3ER62jiZpUtHMRjWnH2H6i/UI-Model?type=whiteboard&node-id=0-1&t=D1fxS6d45IBOtoCs-0)
 
-- [Client](https://github.com/calvin-cs262-fall2023-teamG/Client)
-
-- [Trello](https://trello.com/b/ONBkWuzC/cs262g-the-chapter-cachers)
-
 - [Deployment Diagram](https://github.com/calvin-cs262-fall2023-teamG/Project/blob/main/images/Deployment%20Diagram.png)
 
+**Documentations**
+- [Trello](https://trello.com/b/ONBkWuzC/cs262g-the-chapter-cachers)
+
+- [User Test Script](https://github.com/calvin-cs262-fall2023-teamG/Project/blob/main/documents/User%20Test%20Script.pdf)
+
+- [User Test Report](https://github.com/calvin-cs262-fall2023-teamG/Project/blob/main/documents/User%20Test%20Report.pdf)
+
+**Other Repositories**
+- [Client](https://github.com/calvin-cs262-fall2023-teamG/Client)
+
+- [Service](https://github.com/calvin-cs262-fall2023-teamG/Service)
 
 
 **Teammates:**
