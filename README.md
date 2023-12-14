@@ -26,9 +26,9 @@ Here is our:
 
 - [User Test Report](https://github.com/calvin-cs262-fall2023-teamG/Project/blob/main/documents/User%20Test%20Report.pdf)
 
-- [Mid-Semester Presentation]()
+- [Mid-Semester Presentation](https://github.com/calvin-cs262-fall2023-teamG/Project/blob/main/presentations/ChapterCache%20-%20Mid-Semester.pptx)
 
-- [Final Presentation]()
+- [Final Presentation](https://github.com/calvin-cs262-fall2023-teamG/Project/blob/main/presentations/ChapterCache%20-%20Final.pptx)
 
 **Other Repositories**
 - [Client](https://github.com/calvin-cs262-fall2023-teamG/Client)
