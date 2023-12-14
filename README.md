@@ -26,6 +26,10 @@ Here is our:
 
 - [User Test Report](https://github.com/calvin-cs262-fall2023-teamG/Project/blob/main/documents/User%20Test%20Report.pdf)
 
+- [Mid-Semester Presentation]()
+
+- [Final Presentation]()
+
 **Other Repositories**
 - [Client](https://github.com/calvin-cs262-fall2023-teamG/Client)
 
